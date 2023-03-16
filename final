@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<style>
+        h1{text-align: center;}
+    </style>
+<h1>Final Scene</h1>
+<p>Shark rocket thing</p>
+<style>
+        p{text-align: center;}
+    </style>
+
+<a href="index.html">
+
+<img src="final.jpg" alt="arcane" 
+style="position:relative; left:360px; width="960" height="407">
+
+
+</body>
+</html>
